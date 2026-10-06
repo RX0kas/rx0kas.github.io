@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['xxh3_0',['XXH3',['../structXXH3.html',1,'']]]
+  ['vertex_0',['Vertex',['../structVectrix_1_1Vertex.html',1,'Vectrix']]],
+  ['vertexarray_1',['VertexArray',['../classVectrix_1_1VertexArray.html',1,'Vectrix']]]
 ];

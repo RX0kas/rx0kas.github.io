@@ -1,17 +1,15 @@
 var searchData=
 [
-  ['cache_0',['Cache',['../classVectrix_1_1Cache.html',1,'Vectrix']]],
-  ['cache_3c_20std_3a_3astring_2c_20std_3a_3ashared_5fptr_3c_20vectrix_3a_3amodel_20_3e_20_3e_1',['Cache&lt; std::string, std::shared_ptr&lt; Vectrix::Model &gt; &gt;',['../classVectrix_1_1Cache.html',1,'Vectrix']]],
-  ['cache_3c_20std_3a_3astring_2c_20std_3a_3ashared_5fptr_3c_20vectrix_3a_3ashader_20_3e_20_3e_2',['Cache&lt; std::string, std::shared_ptr&lt; Vectrix::Shader &gt; &gt;',['../classVectrix_1_1Cache.html',1,'Vectrix']]],
-  ['cache_3c_20std_3a_3astring_2c_20std_3a_3ashared_5fptr_3c_20vectrix_3a_3atexture_20_3e_20_3e_3',['Cache&lt; std::string, std::shared_ptr&lt; Vectrix::Texture &gt; &gt;',['../classVectrix_1_1Cache.html',1,'Vectrix']]],
-  ['camera_4',['camera',['../structVectrix_1_1Renderer_1_1SceneData.html#ab30beee236bdc928a5d98ca574772c58',1,'Vectrix::Renderer::SceneData']]],
-  ['categories_5',['Categories',['../tools_overview.html#autotoc_md14',1,'']]],
-  ['changed_6',['Changed',['../changelog.html#v0_4_0_changed',1,'Changed'],['../changelog.html#v0_3_0_changed',1,'Changed'],['../changelog.html#v0_2_0_changed',1,'Changed'],['../changelog.html#v0_1_0_changed',1,'Changed']]],
-  ['changelog_7',['Changelog',['../changelog.html',1,'index']]],
-  ['contains_8',['contains',['../classVectrix_1_1JsonValue.html#a705aacc6ef8b27ccbcb1ba6e27642508',1,'Vectrix::JsonValue']]],
-  ['core_9',['Core',['../group__core.html',1,'']]],
-  ['create_10',['create',['../classVectrix_1_1VertexBuffer.html#aab659f27219728233cdd75b5fced39df',1,'Vectrix::VertexBuffer::create()'],['../classVectrix_1_1IndexBuffer.html#a4631b7a76ef1532230b3f86235276b35',1,'Vectrix::IndexBuffer::create()'],['../classVectrix_1_1VertexArray.html#aae04bf148f8cc35fd73f6551d389c0df',1,'Vectrix::VertexArray::create()']]],
-  ['createmodel_11',['createModel',['../classVectrix_1_1MeshManager.html#a62aff1415413968f6fd33a0a0f7654de',1,'Vectrix::MeshManager::createModel(const std::string &amp;name, const std::vector&lt; Vertex &gt; &amp;vertices, const std::vector&lt; uint32_t &gt; &amp;indices)'],['../classVectrix_1_1MeshManager.html#a787c167585760f48daaa0a5c18cfbaf6',1,'Vectrix::MeshManager::createModel(const std::string &amp;name, const std::vector&lt; Vertex &gt; &amp;vertices)']]],
-  ['createshader_12',['createShader',['../classVectrix_1_1ShaderManager.html#a54d6b7858b33a9b702d4b81b8e0e6819',1,'Vectrix::ShaderManager']]],
-  ['createtexture_13',['createTexture',['../classVectrix_1_1TextureManager.html#a677c13cdf8f63b25268fc6570cc85809',1,'Vectrix::TextureManager']]]
+  ['begin_0',['begin',['../classVectrix_1_1BufferLayout.html#a3efb4f1d907f5cbb2ff42a1d79b0509e',1,'Vectrix::BufferLayout']]],
+  ['beginscene_1',['beginScene',['../classVectrix_1_1Renderer.html#adc134411ebb106a506d009d3b38a01e8',1,'Vectrix::Renderer']]],
+  ['bgra_5fsrgb_2',['BGRA_SRGB',['../group__utils.html#gga7d8ad2dfe181ac4b39533ba2e4d07048a3fb9bcebaa4016cc1f5c4f82f5179ae2',1,'Vectrix']]],
+  ['bind_3',['bind',['../classVectrix_1_1Framebuffer.html#ad6a26ec27e77dfbbf320bc5f16479635',1,'Vectrix::Framebuffer::bind()'],['../classVectrix_1_1Shader.html#ac40fc14b31e3fbb0f93b2eb601789728',1,'Vectrix::Shader::bind()']]],
+  ['bit_4',['BIT',['../group__core.html#gad27cc17b25bb93134368d5eb21126eae',1,'Core.h']]],
+  ['buffer_2eh_5',['Buffer.h',['../Buffer_8h.html',1,'']]],
+  ['bufferelement_6',['BufferElement',['../structVectrix_1_1BufferElement.html',1,'Vectrix::BufferElement'],['../structVectrix_1_1BufferElement.html#a7b4172cdf82fb9e2394c12dd87506621',1,'Vectrix::BufferElement::BufferElement()']]],
+  ['bufferlayout_7',['BufferLayout',['../classVectrix_1_1BufferLayout.html',1,'Vectrix::BufferLayout'],['../classVectrix_1_1BufferLayout.html#a5d723158a4131f4fe2a3a8c310733134',1,'Vectrix::BufferLayout::BufferLayout()']]],
+  ['buffers_8',['Buffers',['../group__buffers.html',1,'']]],
+  ['button_9',['button',['../classVectrix_1_1MouseButtonPressedEvent.html#a2c4c4e5a0ff52333c766475a5919b149',1,'Vectrix::MouseButtonPressedEvent::button'],['../classVectrix_1_1MouseButtonReleasedEvent.html#a3f6d1deb176ebf723c974eb3eb731d23',1,'Vectrix::MouseButtonReleasedEvent::button']]],
+  ['bynameonly_10',['byNameOnly',['../structVectrix_1_1AssetsManager_1_1MovedAsset.html#a07c63ae884923d6c55c8abfc24e7686f',1,'Vectrix::AssetsManager::MovedAsset']]],
+  ['byte_11',['Byte',['../Data_8h.html#ae3a497195d617519e5353ea7b417940f',1,'Data.h']]]
 ];

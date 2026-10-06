@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['added_0',['Added',['../changelog.html#v0_4_0_added',1,'Added'],['../changelog.html#v0_3_0_added',1,'Added'],['../changelog.html#v0_2_0_added',1,'Added'],['../changelog.html#v0_1_0_added',1,'Added']]],
-  ['architecture_1',['Architecture',['../rendering_overview.html#autotoc_md9',1,'']]],
-  ['available_2',['Different modules available',['../docs_home.html',1,'index']]]
+  ['5_200_20—_2024_2005_202026_0',['v0.5.0 — (24-05-2026)',['../changelog.html#v0_5_0',1,'']]],
+  ['5_202_2006_2010_202026_1',['v0.5.2 - (06-10-2026)',['../changelog.html#v0_5_2',1,'']]]
 ];

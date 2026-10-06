@@ -1,17 +1,14 @@
 var searchData=
 [
-  ['imgui_0',['ImGui',['../group__imgui.html',1,'']]],
-  ['imguilayer_1',['ImGuiLayer',['../classVectrix_1_1ImGuiLayer.html',1,'Vectrix']]],
-  ['imguilayer_2',['imguiLayer',['../classVectrix_1_1Application.html#aa04aa8c2448af21f423b16d910f3ecba',1,'Vectrix::Application']]],
-  ['imguilayer_2eh_3',['ImGuiLayer.h',['../ImGuiLayer_8h.html',1,'']]],
-  ['imguiwidget_4',['ImGuiWidget',['../classVectrix_1_1ImGuiWidget.html',1,'Vectrix::ImGuiWidget'],['../classVectrix_1_1ImGuiWidget.html#a7f2519248dd4ce2341656c39e27fc326',1,'Vectrix::ImGuiWidget::ImGuiWidget()']]],
-  ['imguiwidget_2eh_5',['ImGuiWidget.h',['../ImGuiWidget_8h.html',1,'']]],
-  ['indexbuffer_6',['IndexBuffer',['../classVectrix_1_1IndexBuffer.html',1,'Vectrix']]],
-  ['input_7',['Input',['../classVectrix_1_1Input.html',1,'Vectrix']]],
-  ['instance_8',['instance',['../classVectrix_1_1Application.html#a0b46883fdc5504d20fa29af2083e60c9',1,'Vectrix::Application::instance()'],['../classVectrix_1_1MeshManager.html#aefa812f7849848c21f33700d9d9468e6',1,'Vectrix::MeshManager::instance()'],['../classVectrix_1_1ShaderManager.html#ae3f69ad2d50bbaea23ba8d939c91ff17',1,'Vectrix::ShaderManager::instance()'],['../classVectrix_1_1TextureManager.html#a1d557a7d11fe3e540836f6d35ec56611',1,'Vectrix::TextureManager::instance()']]],
-  ['isaffectedbycamera_9',['isAffectedByCamera',['../classVectrix_1_1Shader.html#af7c6d680a5472ae797ee35630f9908f4',1,'Vectrix::Shader']]],
-  ['iscompatible_10',['isCompatible',['../classVectrix_1_1Profiler.html#a06e52b7beb083c13971da84b91be674b',1,'Vectrix::Profiler']]],
-  ['isfinalized_11',['isFinalized',['../classVectrix_1_1ShaderUniformLayout.html#a8d315401ccd844673fab0389e4c7032f',1,'Vectrix::ShaderUniformLayout']]],
-  ['isnull_12',['isNull',['../classVectrix_1_1JsonValue.html#a1a4b2390f4dd49d87e6c92b52a375f17',1,'Vectrix::JsonValue']]],
-  ['istype_13',['isType',['../classVectrix_1_1JsonValue.html#a40aa8092bd01a858aae8fe854225f481',1,'Vectrix::JsonValue']]]
+  ['has_0',['has',['../classVectrix_1_1BufferLayout.html#a1603f2bc590dc78584b20f2d89f65133',1,'Vectrix::BufferLayout']]],
+  ['hascomponent_1',['hasComponent',['../classVectrix_1_1Entity.html#a9f6e1c2d75c6b8cc6732f654f0291e8c',1,'Vectrix::Entity']]],
+  ['hascustomaspect_2',['hasCustomAspect',['../classVectrix_1_1Camera.html#a71bf583b2b83f9425fcdc1e1e70f2fee',1,'Vectrix::Camera']]],
+  ['hasdepth_3',['hasDepth',['../structVectrix_1_1FramebufferSpecification.html#a51f4d28040838033d78c56a2bab7def9',1,'Vectrix::FramebufferSpecification']]],
+  ['hash_4',['hash',['../structVectrix_1_1AssetFingerprint.html#accd213ba930033add733448e963f3baf',1,'Vectrix::AssetFingerprint']]],
+  ['hashcombine_5',['hashCombine',['../group__utils.html#ga856caae918d271e1e368c452ffe7019d',1,'Hashing.h']]],
+  ['hashing_2eh_6',['Hashing.h',['../Hashing_8h.html',1,'']]],
+  ['hasmissingasset_7',['hasMissingAsset',['../classVectrix_1_1MeshRendererComponent.html#a75898282683484de94cb6e6789491117',1,'Vectrix::MeshRendererComponent']]],
+  ['hasproject_8',['hasProject',['../classVectrix_1_1SettingsManager.html#acf79bc1512cb89a373a1845e2dd29bf9',1,'Vectrix::SettingsManager']]],
+  ['height_9',['height',['../structVectrix_1_1WindowAttributes.html#aa7cc7f561a01ada47702e635b655d0c8',1,'Vectrix::WindowAttributes::height'],['../classVectrix_1_1WindowResizeEvent.html#acb675a077381cbad6b2687d5e307e645',1,'Vectrix::WindowResizeEvent::height'],['../classVectrix_1_1FramebufferResizeEvent.html#a52ff03bcef2e898cfb5c105fa44ba446',1,'Vectrix::FramebufferResizeEvent::height'],['../structVectrix_1_1FramebufferSpecification.html#abdd5c4cbf6d10b4d2d46e33772ff5269',1,'Vectrix::FramebufferSpecification::height']]],
+  ['hide_10',['hide',['../classVectrix_1_1Window.html#a5c842fe58981a22c5ac90d6f2e39abe3',1,'Vectrix::Window']]]
 ];

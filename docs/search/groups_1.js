@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['core_0',['Core',['../group__core.html',1,'']]]
+  ['buffers_0',['Buffers',['../group__buffers.html',1,'']]]
 ];

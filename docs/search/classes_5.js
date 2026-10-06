@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['imguilayer_0',['ImGuiLayer',['../classVectrix_1_1ImGuiLayer.html',1,'Vectrix']]],
-  ['imguiwidget_1',['ImGuiWidget',['../classVectrix_1_1ImGuiWidget.html',1,'Vectrix']]],
-  ['indexbuffer_2',['IndexBuffer',['../classVectrix_1_1IndexBuffer.html',1,'Vectrix']]],
-  ['input_3',['Input',['../classVectrix_1_1Input.html',1,'Vectrix']]]
+  ['filesdroppedevent_0',['FilesDroppedEvent',['../classVectrix_1_1FilesDroppedEvent.html',1,'Vectrix']]],
+  ['framebuffer_1',['Framebuffer',['../classVectrix_1_1Framebuffer.html',1,'Vectrix']]],
+  ['framebufferresizeevent_2',['FramebufferResizeEvent',['../classVectrix_1_1FramebufferResizeEvent.html',1,'Vectrix']]],
+  ['framebufferspecification_3',['FramebufferSpecification',['../structVectrix_1_1FramebufferSpecification.html',1,'Vectrix']]]
 ];

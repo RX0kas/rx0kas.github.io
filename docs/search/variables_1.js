@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['name_0',['name',['../structVectrix_1_1BufferElement.html#ac6560e190ad0406c8be8950b4d57e85a',1,'Vectrix::BufferElement::name'],['../structVectrix_1_1UniformElement.html#a1ea8def54794a12ccf9e7416b61144be',1,'Vectrix::UniformElement::name']]],
-  ['normal_1',['normal',['../structVectrix_1_1Vertex.html#a2393c8ee21775d5e8be58a7802f5ab41',1,'Vectrix::Vertex']]]
+  ['button_0',['button',['../classVectrix_1_1MouseButtonPressedEvent.html#a2c4c4e5a0ff52333c766475a5919b149',1,'Vectrix::MouseButtonPressedEvent::button'],['../classVectrix_1_1MouseButtonReleasedEvent.html#a3f6d1deb176ebf723c974eb3eb731d23',1,'Vectrix::MouseButtonReleasedEvent::button']]],
+  ['bynameonly_1',['byNameOnly',['../structVectrix_1_1AssetsManager_1_1MovedAsset.html#a07c63ae884923d6c55c8abfc24e7686f',1,'Vectrix::AssetsManager::MovedAsset']]]
 ];

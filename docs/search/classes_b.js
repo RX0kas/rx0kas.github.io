@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['rendercommand_0',['RenderCommand',['../classVectrix_1_1RenderCommand.html',1,'Vectrix']]],
-  ['renderer_1',['Renderer',['../classVectrix_1_1Renderer.html',1,'Vectrix']]],
-  ['rendererapi_2',['RendererAPI',['../classVectrix_1_1RendererAPI.html',1,'Vectrix']]]
+  ['outlinesettings_0',['OutlineSettings',['../structVectrix_1_1OutlineSettings.html',1,'Vectrix']]]
 ];

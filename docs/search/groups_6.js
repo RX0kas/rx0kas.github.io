@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['renderer_0',['Renderer',['../group__renderer.html',1,'']]],
-  ['rendering_1',['Graphic rendering',['../group__rendering.html',1,'']]]
+  ['imgui_0',['ImGui',['../group__imgui.html',1,'']]],
+  ['input_1',['Input',['../group__input.html',1,'']]]
 ];
